@@ -1,2 +1,2 @@
 # SMPP-Server
-SMPP Server On Node JS
+SMPP Server on Node JS
