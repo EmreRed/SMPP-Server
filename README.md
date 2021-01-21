@@ -11,5 +11,5 @@ npm install smpp
 
 ### HOW TO USE
 ```
-node smpp_server.js
+node app.js
 ```
