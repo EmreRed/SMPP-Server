@@ -55,8 +55,8 @@ const server = smpp.createServer(function(session) {
 
     session.deliver_sm({
       command_id: 4,
-    	command_status: '',
-    	sequence_number: pdu.sequence_number,
+      command_status: '',
+      sequence_number: pdu.sequence_number,
       service_type: '',
       source_addr_ton: '',
       source_addr_npi: '',
