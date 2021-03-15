@@ -94,5 +94,10 @@ const server = smpp.createServer(function(session) {
     session.send(pdu.response());
   });
 
+  session.on('error', function(pdu){
+    console.log("error");
+    console.log(pdu);
+  });
+  
 });
 server.listen(2775);
