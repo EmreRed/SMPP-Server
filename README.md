@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://socialify.git.ci/emredv/SMPP-Server/image?description=1&font=Raleway&owner=1&pattern=Charlie%20Brown&theme=Light" />
+  <img src="https://socialify.git.ci/emredv/SMPP-Server/image?description=0&font=Raleway&owner=0&pattern=Charlie%20Brown&theme=Dark" />
 </p>
 <br />
 
